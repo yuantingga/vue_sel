@@ -19,7 +19,7 @@
   "rewrites": [
     {
       "source": "/", 
-      "destination": "/app.js"
+      "destination": "/api/proxy.js"
     }
   ]
 }
