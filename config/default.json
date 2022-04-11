@@ -11,10 +11,10 @@
 	},
 	"db_config" : {
 		"protocol" : "mysql",
-		"host" : "85.10.205.173",
-		"database" : "yuanmysql",
+		"host" :"85.10.205.173",
+		"database" :  "yuanmysql",
 		"user" : "y7411109",
-		"password" : "y7411109",
+		"password" :"y7411109",
 		"port" : 3306
 	}
 }
